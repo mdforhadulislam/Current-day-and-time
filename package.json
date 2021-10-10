@@ -1,0 +1,12 @@
+{
+  "name": "js-file",
+  "version": "1.0.0",
+  "description": "Current day and time",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Forhadul islam",
+  "license": "ISC"
+}
